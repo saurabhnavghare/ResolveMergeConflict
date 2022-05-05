@@ -13,5 +13,10 @@ public class ResolveMergeConflictApplication {
 	public void show(){
 	System.out.println("Akshay Developer here");
 	}
+
 	String msg="Yogesh here";
+
+  
+	String msg="Suraj here";
+
 }
