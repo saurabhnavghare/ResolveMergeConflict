@@ -10,4 +10,13 @@ public class ResolveMergeConflictApplication {
 		SpringApplication.run(ResolveMergeConflictApplication.class, args);
 	}
 
+	public void show(){
+	System.out.println("Akshay Developer here");
+	}
+
+	String msg="Yogesh here";
+
+  
+	String msg="Suraj here";
+
 }
